@@ -23,7 +23,7 @@ body {
   text-align: right;
   padding: 10px;
   border-radius: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #89e4c1;
 }
 
 .buttons {
@@ -37,9 +37,9 @@ button {
   font-size: 18px;
   border: none;
   border-radius: 10px;
-  background-color: #eee;
+  background-color: #fff0f0;
   cursor: pointer;
-  transition: background-color 0.2s;
+  transition: background-color 0.4s;
 }
 
 button:hover {
